@@ -1,0 +1,19 @@
+# Striped hand towel: 8/2 cotton, 4-shaft straight draw.
+title: Striped hand towel
+sett: 16              # ends per inch in the reed
+ppi: 24               # picks per inch
+width: 16 in          # finished width, after wash
+length: 24 in         # finished length, after wash
+shrink: 10%           # wet-finishing shrinkage
+takeup: 10%           # warp lost to take-up on the loom
+hems: 2 in            # warp allowed at each end for hems
+loom_waste: 36 in     # tie-on and loom waste
+waste: 10%            # allowance for samples and breakage
+shafts: 4
+warp: navy 8, white 4, navy 8
+repeats: 14
+threading: 1 2 3 4
+treadling: 1 2 3 4
+weft: white
+yarn navy: 2400 ypl 14.50
+yarn white: 2400 ypl 13.00
